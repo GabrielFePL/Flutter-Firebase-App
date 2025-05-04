@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "914063189191",
+    "firebase_url": "https://minidevblogfecchio-default-rtdb.firebaseio.com",
+    "project_id": "minidevblogfecchio",
+    "storage_bucket": "minidevblogfecchio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914063189191:android:2f2925275d66ac9902cae2",
+        "android_client_info": {
+          "package_name": "com.example.firebase_tutorial_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClj3LpDqDk-ztJFUzREus18JvussKwHLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
