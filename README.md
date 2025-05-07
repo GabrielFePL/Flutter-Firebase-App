@@ -1,6 +1,11 @@
 # Flutter-Firebase-App
 Repositório criado para demonstrar, com Flutter e Firebase, a construção de um app completo com autenticação de usuários via Firebase Auth e banco de dados Firestore. Projeto prático e educacional para integração de backend na nuvem.
 
+> Projeto baseado em:
+> "Flutter Firebase Tutorial For Beginners | FlutterFire Course | Firebase Auth, Firestore DB, Storage",
+> Por Rivaan Ranawat,
+> Em https://www.youtube.com/watch?v=LFlE8yV7lJY&list=LL&index=17
+
 # Documentação do Código: `main.dart`
 
 Este arquivo é o ponto de entrada principal do aplicativo Flutter. Ele configura a inicialização do Firebase, define o tema global do aplicativo e implementa a lógica de navegação com base no estado de autenticação do usuário.
